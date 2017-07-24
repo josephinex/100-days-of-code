@@ -16,3 +16,11 @@
 
 **Link to work:** https://github.com/josephinex/XMLReader
 
+### Day 3: July 24, 2017
+
+**Today's Progress**: Continue with DOM Parser. Starting with SAX parser.
+
+**Thoughts:** Takes much time.
+
+**Link to work:** https://github.com/josephinex/XMLReader
+
