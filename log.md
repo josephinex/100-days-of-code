@@ -24,3 +24,12 @@
 
 **Link to work:** https://github.com/josephinex/XMLReader
 
+### Day 4: July 25, 2017
+
+**Today's Progress**: Working with SAX parser.
+
+**Thoughts:** A little harder to work with, or I am not yet used to it, but it's more efficient.
+
+**Link to work:** https://github.com/josephinex/XMLReader
+
+
