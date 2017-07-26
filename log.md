@@ -32,4 +32,14 @@
 
 **Link to work:** https://github.com/josephinex/XMLReader
 
+### Day 5: July 26, 2017
+
+**Today's Progress**: Start with Spring Data
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/SpringDataTest
+
+
+
 
