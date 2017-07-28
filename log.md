@@ -48,6 +48,14 @@
 
 **Link to work:** https://github.com/josephinex/SpringDataTest
 
+### Day 7: July 28, 2017
+
+**Today's Progress**: Continue with Spring Data
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/SpringDataTest
+
 
 
 
