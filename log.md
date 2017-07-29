@@ -56,6 +56,13 @@
 
 **Link to work:** https://github.com/josephinex/SpringDataTest
 
+### Day 8: July 29, 2017
+
+**Today's Progress**: Personal Project on ReactJs + Java
+
+**Thoughts:**  The repo is private, so no link to source
+
+**Link to work:** 
 
 
 
