@@ -64,5 +64,13 @@
 
 **Link to work:** 
 
+### Day 9: July 30, 2017
+
+**Today's Progress**: Personal Project on ReactJs 
+
+**Thoughts:**  The repo is private, so no link to source
+
+**Link to work:** 
+
 
 
