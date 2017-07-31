@@ -72,5 +72,12 @@
 
 **Link to work:** 
 
+### Day 10: July 31, 2017
+
+**Today's Progress**: Spring Data study and test
+
+**Thoughts:**  
+
+**Link to work:** https://github.com/josephinex/SpringDataTest
 
 
