@@ -80,7 +80,7 @@
 
 **Link to work:** https://github.com/josephinex/SpringDataTest
 
-### Day 11: July 31, 2017
+### Day 11: August 1, 2017
 
 **Today's Progress**: React project
 
@@ -88,5 +88,11 @@
 
 **Link to work:** -
 
+### Day 12: August 2, 2017
 
+**Today's Progress**: Spring Data study and test + personal React project
+
+**Thoughts:**  
+
+**Link to work:** https://github.com/josephinex/SpringDataTest
 
