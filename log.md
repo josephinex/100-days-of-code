@@ -96,3 +96,11 @@
 
 **Link to work:** https://github.com/josephinex/SpringDataTest
 
+### Day 13: August 3, 2017
+
+**Today's Progress**: React project: Dropdowns and fetch from json
+
+**Thoughts:**  
+
+**Link to work:** -
+
