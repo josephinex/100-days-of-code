@@ -104,3 +104,10 @@
 
 **Link to work:** -
 
+### Day 14: August 4, 2017
+
+**Today's Progress**: Querydsl study. 
+
+**Thoughts:**  Did not clarify how to use it yet.
+
+**Link to work:** https://github.com/josephinex/SpringDataTest
