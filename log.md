@@ -118,9 +118,9 @@
 
 **Thoughts:** 
 To use querydsl to generate Qclasses:
-**1. Add apt-maven-plugin to pom.xml**
-**2.Processor should be set to com.mysema.query.apt.QuerydslAnnotationProcessor, if you want it to find @QueryEntity. It won't work with other processor, unless you use a simple JPA @Entity.**
-**3. Annotate your classes with @QueryEntity**
-**4. Apt Maven plugin has issues with Eclipse, so it's not possible to use it directly from this IDE. Instead use mvn generate-sources in terminal.**
+1. Add apt-maven-plugin to pom.xml__
+2.Processor should be set to com.mysema.query.apt.QuerydslAnnotationProcessor, if you want it to find @QueryEntity. It won't work with other processor, unless you use a simple JPA @Entity.__
+3. Annotate your classes with @QueryEntity__
+4. Apt Maven plugin has issues with Eclipse, so it's not possible to use it directly from this IDE. Instead use mvn generate-sources in terminal.__
 
 **Link to work:** https://github.com/josephinex/SpringDataTest
