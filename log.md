@@ -124,3 +124,13 @@ To use querydsl to generate Qclasses:
 - Apt Maven plugin has issues with Eclipse, so it's not possible to use it directly from this IDE. Instead use mvn generate-sources in terminal.<br/>
 
 **Link to work:** https://github.com/josephinex/SpringDataTest
+
+
+### Day 16: August 7, 2017
+
+**Today's Progress**: Add new query expressions 
+
+**Thoughts:** 
+Yesterday was a day off so today I continued with querydsl
+
+**Link to work:** https://github.com/josephinex/SpringDataTest
