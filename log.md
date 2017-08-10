@@ -143,5 +143,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/SpringDataTest/tree/v2
 
+### Day 18: August 9, 2017
 
+**Today's Progress**: JPA Repositories - new classes
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/SpringDataTest/tree/v2
 
