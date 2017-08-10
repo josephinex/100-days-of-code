@@ -151,3 +151,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/SpringDataTest/tree/v2
 
+### Day 19: August 10, 2017
+
+**Today's Progress**: JPA Repos - Copy Constructor vs Cloneable (clone()) 
+
+**Thoughts:** Needed to implement a defensive copy of am object (class) and had to choose between clone() and copy constructor. After reading Effective Java, made my decision.
+
+**Link to work:** https://github.com/josephinex/SpringDataTest/tree/v2
+
