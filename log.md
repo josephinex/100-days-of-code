@@ -159,3 +159,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/SpringDataTest/tree/v2
 
+
+### Day 20: August 11, 2017
+
+**Today's Progress**: Spring Data with JPA
+
+**Thoughts:** Still trying to wrap my head around Spring Data
+
+**Link to work:** https://github.com/josephinex/SpringDataTest/tree/v2
+
