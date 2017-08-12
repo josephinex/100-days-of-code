@@ -168,3 +168,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/SpringDataTest/tree/v2
 
+### Day 21: August 12, 2017
+
+**Today's Progress**: Spring Data & React Redux
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/SpringDataTest
+
