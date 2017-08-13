@@ -176,3 +176,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/SpringDataTest
 
+
+### Day 22: August 13, 2017
+
+**Today's Progress**: Converting WorldExplorer to SpringData JPA
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/WorldExplorer
