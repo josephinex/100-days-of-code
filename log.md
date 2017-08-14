@@ -184,3 +184,11 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** 
 
 **Link to work:** https://github.com/josephinex/WorldExplorer
+
+### Day 23: August 14, 2017
+
+**Today's Progress**: Converting WorldExplorer to SpringData JPA, Adding Redux to React
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/WorldExplorer
