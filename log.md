@@ -192,3 +192,13 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** 
 
 **Link to work:** https://github.com/josephinex/WorldExplorer
+
+
+### Day 24: August 15, 2017
+
+**Today's Progress**: Successfully coped with setting up Redux and making it persistent
+
+**Thoughts:** 
+
+**Link to work:** Private repo
+
