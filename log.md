@@ -202,3 +202,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** Private repo
 
+### Day 25: August 16, 2017
+
+**Today's Progress**: Failed to set up Spring Data, give it another try tomorrow.
+
+**Thoughts:** 
+
+**Link to work:**  https://github.com/josephinex/WorldExplorer
+
