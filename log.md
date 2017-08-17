@@ -210,3 +210,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:**  https://github.com/josephinex/WorldExplorer
 
+### Day 26: August 17, 2017
+
+**Today's Progress**: Set up JSF & Spring Data.
+
+**Thoughts:** TO DO: Try use CDI instead of JSF ManagedBeans. Add DTO to the project, to not access entities directly.
+
+**Link to work:**  https://github.com/josephinex/WorldExplorer
+
