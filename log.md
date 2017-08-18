@@ -218,3 +218,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:**  https://github.com/josephinex/WorldExplorer
 
+### Day 27: August 18, 2017
+
+**Today's Progress**: Refactored code. Added case insensitivity.
+
+**Thoughts:** TO DO: Add more fields & queries.
+
+**Link to work:**  https://github.com/josephinex/WorldExplorer
+
