@@ -226,3 +226,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:**  https://github.com/josephinex/WorldExplorer
 
+### Day 28: August 19, 2017
+
+**Today's Progress**: Little code refactoring.
+
+**Thoughts:** 
+
+**Link to work:**  https://github.com/josephinex/WorldExplorer
+
