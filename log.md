@@ -242,3 +242,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:**  https://github.com/josephinex/WorldExplorer
 
+### Day 30: August 22, 2017
+
+**Today's Progress**: Mapped entity to dto.
+
+**Thoughts:** 
+
+**Link to work:**  https://github.com/josephinex/WorldExplorer
+
