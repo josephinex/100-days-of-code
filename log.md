@@ -250,3 +250,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:**  https://github.com/josephinex/WorldExplorer
 
+
+### Day 31: August 23, 2017
+
+**Today's Progress**: Mapped entity to dto. Played with Android.
+
+**Thoughts:** Need to fix the unable to cast to Serializable bug
+
+**Link to work:**  https://github.com/josephinex/WorldExplorer
+
