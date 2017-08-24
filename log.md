@@ -259,3 +259,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:**  https://github.com/josephinex/WorldExplorer
 
+
+### Day 32: August 24, 2017
+
+**Today's Progress**: Finished mapping to dto, but failed to remove Serializable from entities (for an unknown reason (error)). Read and played with the android app.
+
+**Thoughts:** Try CDI
+
+**Link to work:**  https://github.com/josephinex/WorldExplorer
+
