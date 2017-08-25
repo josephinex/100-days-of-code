@@ -268,3 +268,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:**  https://github.com/josephinex/WorldExplorer
 
+### Day 33: August 25, 2017
+
+**Today's Progress**: Tried different things on Android. Ready to start building an app.
+
+**Thoughts:** -
+
+**Link to work:** -
+
