@@ -276,7 +276,7 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** -
 
-### Day 34: August 26, 2017
+### Day 34: August 27, 2017
 
 **Today's Progress**: Went on learning and trying Android.
 
