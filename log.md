@@ -284,3 +284,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** -
 
+### Day 35: August 28, 2017
+
+**Today's Progress**: This whole day has been dedicated to my "ToDoList" app for Android.
+
+**Thoughts:** Not much has been done, only the UI and some functionality which crashed the android emulator :)
+
+**Link to work:** No work so far, cause I don't know how to deploy, and there's nothing worthy to deploy yet :)
+
