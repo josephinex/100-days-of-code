@@ -288,7 +288,7 @@ Yesterday was a day off so today I continued with querydsl
 
 **Today's Progress**: This whole day has been dedicated to my "ToDoList" app for Android. Added CDI to WorldExplorer as well.
 
-**Thoughts:** Not much has been done, only the UI and some functionality which crashed the android emulator :)
+**Thoughts:** Not much has been done, only the UI and some functionality which crashed the app in the android emulator :)
 
 **Link to work:** No work so far, cause I don't know how to deploy, and there's nothing worthy to deploy yet :)
 
