@@ -292,3 +292,11 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** No work so far, cause I don't know how to deploy, and there's nothing worthy to deploy yet :)
 
+### Day 36: August 29, 2017
+
+**Today's Progress**: Worked on "ToDoList" app for Android. 
+
+**Thoughts:** The problem is not solved yet :)
+
+**Link to work:** -
+
