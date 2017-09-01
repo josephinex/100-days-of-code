@@ -308,3 +308,18 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** -
 
+### Day 38: August 31, 2017
+
+**Today's Progress**: Worked on Java project.
+
+**Thoughts:** -
+
+**Link to work:** -
+
+### Day 39: September 1, 2017
+
+**Today's Progress**: Worked on reactjs.
+
+**Thoughts:** Very tired
+
+**Link to work:** -
