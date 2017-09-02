@@ -323,3 +323,12 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** Very tired
 
 **Link to work:** -
+
+
+### Day 40: September 2, 2017
+
+**Today's Progress**: Played with Android
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/AdroidCodeSamples
