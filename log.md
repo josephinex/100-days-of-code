@@ -340,3 +340,28 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** 
 
 **Link to work:** https://github.com/josephinex/AdroidCodeSamples
+
+### Day 42: September 4, 2017
+
+**Today's Progress**: Played with Android
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/AdroidCodeSamples
+
+
+### Day 43: September 5, 2017
+
+**Today's Progress**: Played with Android
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/AdroidCodeSamples
+
+### Day 44: September 6, 2017
+
+**Today's Progress**: ReactJS project
+
+**Thoughts:** 
+
+**Link to work:** 
