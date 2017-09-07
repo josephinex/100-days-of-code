@@ -365,3 +365,11 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 45: September 7, 2017
+
+**Today's Progress**: Android development - Spinner
+
+**Thoughts:** 
+
+**Link to work:** -
