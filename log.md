@@ -373,3 +373,11 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** 
 
 **Link to work:** -
+
+### Day 46: September 9, 2017
+
+**Today's Progress**: ReactJS development
+
+**Thoughts:** 
+
+**Link to work:** -
