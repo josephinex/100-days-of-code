@@ -381,3 +381,10 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** 
 
 **Link to work:** -
+
+### Day 46: September 10, 2017
+### Day 47: September 11, 2017
+### Day 48: September 12, 2017
+### Day 49: September 13, 2017
+### Day 50: September 14, 2017
+**Today's Progress**: Reinforcing Java Core
