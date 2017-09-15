@@ -387,3 +387,9 @@ Yesterday was a day off so today I continued with querydsl
 ### Day 49: September 13, 2017
 ### Day 50: September 14, 2017
 **Today's Progress**: Reinforcing Java Core
+
+### Day 51: September 15, 2017
+**Today's Progress**: StringBuilder, StringBuffer, equals() methods revision & practice.
+**Thoughts:** 
+
+**Link to work:** -
