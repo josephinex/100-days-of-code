@@ -393,3 +393,16 @@ Yesterday was a day off so today I continued with querydsl
 **Thoughts:** 
 
 **Link to work:** -
+
+### Day 52-57: September 16-21, 2017
+**Today's Progress**: Java Core
+**Thoughts:** 
+
+**Link to work:** -
+
+### Day 58: September 22, 2017
+**Today's Progress**: Java Inner Classes + Database design for term project
+**Thoughts:** 
+
+**Link to work:** -
+
