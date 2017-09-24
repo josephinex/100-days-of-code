@@ -406,3 +406,9 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** -
 
+
+### Day 59-60: September 23-24, 2017
+**Today's Progress**: Java Lambda Expressions and Streams
+**Thoughts:** 
+
+**Link to work:** -
