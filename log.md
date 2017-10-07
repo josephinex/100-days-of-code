@@ -422,7 +422,8 @@ Yesterday was a day off so today I continued with querydsl
 
 ### Day 72: October 7, 2017
 **Today's Progress**: Spring Framework
-**Thoughts:** Int 2-3 days need to learn Spring at a quite decent level.
+
+**Thoughts:** In 2-3 days need to learn Spring at a quite decent level.
 
 **Link to work:** https://github.com/josephinex/DiscoverSpring
 
