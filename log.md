@@ -427,5 +427,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/DiscoverSpring
 
+### Day 73: October 8, 2017
+**Today's Progress**: Spring Framework - XML & Java Configurations. AOP.
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/DiscoverSpring
+
 
 
