@@ -441,5 +441,14 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/DiscoverSpring
 
+### Day 77-81: October 12-16, 2017
+**Today's Progress**: Spring Framework.JMS
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/DiscoverSpring
+
+
+
 
 
