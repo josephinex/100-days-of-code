@@ -448,6 +448,13 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/DiscoverSpring
 
+### Day 82: October 16, 2017
+**Today's Progress**: Thymeleaf && Spring MVC + git
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/ThymeLeafDemo
+
 
 
 
