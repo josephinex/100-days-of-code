@@ -455,6 +455,13 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/ThymeLeafDemo
 
+### Day 83: October 17, 2017
+**Today's Progress**: Thymeleaf, Bootstrap, Spring Boot, jUnit Testing
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/ThymeLeafDemo
+
 
 
 
