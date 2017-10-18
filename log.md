@@ -462,7 +462,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/ThymeLeafDemo
 
+### Day 84: October 18, 2017
+**Today's Progress**: JMS & Spring Core
 
+**Thoughts:** 
+
+**Link to work:** https://github.com/josephinex/jms-example
 
 
 
