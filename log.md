@@ -469,5 +469,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** https://github.com/josephinex/jms-example
 
+### Day 85-87: October 19-21, 2017
+**Today's Progress**: RESTful webservices test project 
+
+**Thoughts:** 
+
+**Link to work:** 
+
 
 
