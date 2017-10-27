@@ -483,5 +483,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** 
 
+### Day 91-93: October 25-27, 2017
+**Today's Progress**: REST WS, intro into swagger, Spring MVC.
+
+**Thoughts:** 
+
+**Link to work:** 
+
 
 
