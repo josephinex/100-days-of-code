@@ -491,4 +491,12 @@ Yesterday was a day off so today I continued with querydsl
 **Link to work:** 
 
 
+### Day 94-95: October 28-29, 2017
+**Today's Progress**: RESTful web services, read two books and did some practice.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
 
