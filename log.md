@@ -498,5 +498,12 @@ Yesterday was a day off so today I continued with querydsl
 
 **Link to work:** 
 
+### Day 96-98: October 30- November 1, 2017
+**Today's Progress**: RESTful WS, Lambda & Streams, Java Bean Validation Annotations
+
+**Thoughts:** 
+
+**Link to work:**
+
 
 
