@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 1: May 3, 2020
+
+**Today's Progress**: Created a new project to learn jpa and postgres.
+
+**Thoughts**: Just starting.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
+
+
+***************************************************************************************************************
+
+# 100 Days Of Code - Log
+
 ### Day 1: July 22, 2017
 
 **Today's Progress**: Tried working with Xpath in my tiny XML project.
