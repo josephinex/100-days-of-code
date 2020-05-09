@@ -8,7 +8,7 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
-### Day 1: May 9, 2020
+### Day 2: May 9, 2020
 
 **Today's Progress**: Added entities and lombok.
 
