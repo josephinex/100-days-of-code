@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 3, 2020
+### Day 1: May 8, 2020
 
 **Today's Progress**: Created a new project to learn jpa and postgres.
 
@@ -8,6 +8,13 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 1: May 9, 2020
+
+**Today's Progress**: Added entities and lombok.
+
+**Thoughts**: Long work ahead.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
 
 
 ***************************************************************************************************************
