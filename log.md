@@ -16,6 +16,15 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 3: May 10, 2020
+
+**Today's Progress**: Added spring boot and set up java 11.
+
+**Thoughts**: Expect to learn something new.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
+
 
 ***************************************************************************************************************
 
