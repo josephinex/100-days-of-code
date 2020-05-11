@@ -24,6 +24,14 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 4: May 11, 2020
+
+**Today's Progress**: Set up web app. Added jpa relations to entities.
+
+**Thoughts**: To be continued.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 
 ***************************************************************************************************************
