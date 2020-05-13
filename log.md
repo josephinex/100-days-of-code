@@ -32,6 +32,22 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 5: May 12, 2020
+
+**Today's Progress**: Added some more dependencies
+
+**Thoughts**: To be continued.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
+### Day 6: May 13, 2020
+
+**Today's Progress**: Created contoller and html page.
+
+**Thoughts**: To be continued.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 
 ***************************************************************************************************************
