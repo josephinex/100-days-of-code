@@ -48,6 +48,13 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 7: May 14, 2020
+
+**Today's Progress**: Created jpa config.
+
+**Thoughts**: To be continued.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
 
 
 ***************************************************************************************************************
