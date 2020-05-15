@@ -56,6 +56,14 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 8: May 15, 2020
+
+**Today's Progress**: Added some new packages, interfaces and methods.
+
+**Thoughts**: To be continued.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 ***************************************************************************************************************
 
