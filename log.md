@@ -64,6 +64,14 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 9: May 17, 2020
+
+**Today's Progress**: Added more methods to dao classes. One unit test.
+
+**Thoughts**: To be continued.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 ***************************************************************************************************************
 
