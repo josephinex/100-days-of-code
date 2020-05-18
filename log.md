@@ -72,6 +72,14 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 10: May 18, 2020
+
+**Today's Progress**: Added more tests for dao classes.
+
+**Thoughts**: Not much.
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 ***************************************************************************************************************
 
