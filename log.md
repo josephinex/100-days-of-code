@@ -80,6 +80,15 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 11: May 20, 2020
+
+**Today's Progress**: DB working configuration
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
+
 
 ***************************************************************************************************************
 
