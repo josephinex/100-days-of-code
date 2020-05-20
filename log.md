@@ -80,7 +80,7 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
-### Day 11: May 20, 2020
+### Day 11: May 19, 2020
 
 **Today's Progress**: DB working configuration
 
