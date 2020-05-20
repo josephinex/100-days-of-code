@@ -88,6 +88,14 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 12: May 20, 2020
+
+**Today's Progress**: Code refactoring
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 
 ***************************************************************************************************************
