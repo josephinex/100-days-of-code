@@ -96,6 +96,14 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 13: May 21, 2020
+
+**Today's Progress**: Some small tweaks
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 
 ***************************************************************************************************************
