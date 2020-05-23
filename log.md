@@ -114,6 +114,14 @@
 **Link to work:** https://github.com/josephinex/helpSeniors
 
 
+### Day 15: May 23, 2020
+
+**Today's Progress**: Tweaked entities
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 ***************************************************************************************************************
 
