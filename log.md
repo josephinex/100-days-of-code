@@ -122,6 +122,14 @@
 
 **Link to work:** https://github.com/josephinex/helpSeniors
 
+### Day 16: May 25, 2020
+
+**Today's Progress**: Code refactoring. Implemented inheritance with MappedSuperclass
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/helpSeniors
+
 
 ***************************************************************************************************************
 
