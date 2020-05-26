@@ -131,7 +131,7 @@
 **Link to work:** https://github.com/josephinex/helpSeniors
 
 
-### Day 16: May 25, 2020
+### Day 17: May 26, 2020
 
 **Today's Progress**: Created a new project where I will test all the features of JPA
 
