@@ -139,6 +139,15 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 18: May 27, 2020
+
+**Today's Progress**: Added tests.
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+
 
 
 ***************************************************************************************************************
