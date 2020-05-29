@@ -147,6 +147,22 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 19: May 28, 2020
+
+**Today's Progress**: Nullable, insertable attributes
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+### Day 20: May 29, 2020
+
+**Today's Progress**: Studied insertable attribute
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
 
 
 
