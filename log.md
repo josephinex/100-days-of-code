@@ -163,6 +163,14 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 21: May 30, 2020
+
+**Today's Progress**: Studied updatable, columnDefinition and length attributes
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
 
 
 
