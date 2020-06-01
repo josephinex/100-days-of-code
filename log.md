@@ -172,6 +172,15 @@
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
+### Day 22: June 1, 2020
+
+**Today's Progress**: Studied scale and precision
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+
 
 
 ***************************************************************************************************************
