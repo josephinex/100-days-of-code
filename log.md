@@ -180,6 +180,14 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 23: June 2, 2020
+
+**Today's Progress**: @GeneratedValue annotation
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
 
 
 
