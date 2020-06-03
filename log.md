@@ -189,6 +189,16 @@
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
+### Day 24: June 3, 2020
+
+**Today's Progress**: Configured a functionality of fetching db records in batches with spring data jpa.
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+
+
 
 
 ***************************************************************************************************************
