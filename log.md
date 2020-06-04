@@ -197,7 +197,13 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 25: June 4, 2020
 
+**Today's Progress**: Primary key strategies
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
 
