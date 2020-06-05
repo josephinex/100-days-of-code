@@ -205,6 +205,15 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 26: June 5, 2020
+
+**Today's Progress**: GenerationType.AUTO
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+
 
 
 ***************************************************************************************************************
