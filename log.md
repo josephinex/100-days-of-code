@@ -213,7 +213,13 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 27: June 6, 2020
 
+**Today's Progress**: CriteriaBuilder. Basic Structure.
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
 ***************************************************************************************************************
