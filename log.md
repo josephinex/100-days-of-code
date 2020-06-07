@@ -222,6 +222,15 @@
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
+### Day 28: June 7, 2020
+
+**Today's Progress**: CriteriaBuilder. Building Criteria API Queries (from PRO JPA 2 Book)
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+
 ***************************************************************************************************************
 
 # 100 Days Of Code - Log
