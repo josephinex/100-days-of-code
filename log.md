@@ -230,7 +230,7 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
-### Day 28: June 8, 2020
+### Day 29: June 8, 2020
 
 **Today's Progress**: Repeated sql joins.
 
