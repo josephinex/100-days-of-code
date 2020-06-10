@@ -239,6 +239,15 @@
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
+### Day 30: June 9, 2020
+
+**Today's Progress**: Finally played with criteria queries.
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+
 ***************************************************************************************************************
 
 # 100 Days Of Code - Log
