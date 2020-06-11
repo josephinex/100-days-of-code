@@ -256,6 +256,15 @@
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
+### Day 31: June 11, 2020
+
+**Today's Progress**: Subqueries with CriteriaBuilder.
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
+
 ***************************************************************************************************************
 
 # 100 Days Of Code - Log
