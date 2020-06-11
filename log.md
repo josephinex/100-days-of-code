@@ -247,6 +247,14 @@
 
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
+### Day 31: June 10, 2020
+
+**Today's Progress**: Joins with CriteriaBuilder.
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/josephinex/JPAExamplePOJB
+
 
 ***************************************************************************************************************
 
