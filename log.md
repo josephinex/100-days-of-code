@@ -256,7 +256,7 @@
 **Link to work:** https://github.com/josephinex/JPAExamplePOJB
 
 
-### Day 31: June 11, 2020
+### Day 32: June 11, 2020
 
 **Today's Progress**: Subqueries with CriteriaBuilder.
 
